@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.AssemblyInfo.cs
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\bin\Debug\net8.0\CsharpSocialNetworkManager.exe
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\bin\Debug\net8.0\CsharpSocialNetworkManager.deps.json
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\bin\Debug\net8.0\CsharpSocialNetworkManager.runtimeconfig.json
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\bin\Debug\net8.0\CsharpSocialNetworkManager.dll
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\bin\Debug\net8.0\CsharpSocialNetworkManager.pdb
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.dll
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\refint\CsharpSocialNetworkManager.dll
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.pdb
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.genruntimeconfig.cache
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\ref\CsharpSocialNetworkManager.dll
