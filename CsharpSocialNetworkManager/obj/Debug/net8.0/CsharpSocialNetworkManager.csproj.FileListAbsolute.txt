@@ -12,3 +12,4 @@ C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8
 C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.pdb
 C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.genruntimeconfig.cache
 C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\ref\CsharpSocialNetworkManager.dll
+C:\Users\Dell\source\repos\cursoCsharp\CsharpSocialNetworkManager\obj\Debug\net8.0\CsharpSocialNetworkManager.sourcelink.json

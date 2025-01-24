@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpSocialNetworkManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97346b7467f786a1577c6884e4a611522f745a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpSocialNetworkManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpSocialNetworkManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,6 @@
-﻿using System;
-using CsharpSocialNetworkManager.Models;
+﻿using CsharpSocialNetworkManager.Models;
+using System;
+
 
 namespace CsharpSocialNetworkManager
 {
@@ -38,11 +39,6 @@ namespace CsharpSocialNetworkManager
                 Console.WriteLine("Los datos del usuario no son validos");
                 
             }
-
-
-           
-
-
 
 
         }

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\csharpsocialnetworkmanager\\utilities\\log\\logtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|solutionrelative:csharpsocialnetworkmanager\\utilities\\log\\logtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\csharpsocialnetworkmanager\\utilities\\log\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|solutionrelative:csharpsocialnetworkmanager\\utilities\\log\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\csharpsocialnetworkmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|solutionrelative:csharpsocialnetworkmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\csharpsocialnetworkmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|solutionrelative:csharpsocialnetworkmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB686B6-F204-4B22-8F50-1CDE7E5F27AC}|cursoCsharp\\cursoCsharp.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB686B6-F204-4B22-8F50-1CDE7E5F27AC}|cursoCsharp\\cursoCsharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\csharpsocialnetworkmanager\\models\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FAB686B6-F204-4B22-8F50-1CDE7E5F27AC}|cursoCsharp\\cursoCsharp.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\cursocsharp\\cursocsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FAB686B6-F204-4B22-8F50-1CDE7E5F27AC}|cursoCsharp\\cursoCsharp.csproj|solutionrelative:cursocsharp\\cursocsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB686B6-F204-4B22-8F50-1CDE7E5F27AC}|cursoCsharp\\cursoCsharp.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB686B6-F204-4B22-8F50-1CDE7E5F27AC}|cursoCsharp\\cursoCsharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|c:\\users\\dell\\source\\repos\\cursocsharp\\csharpsocialnetworkmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC447F0F-0091-41B7-87AF-8B6F8D3A24EC}|CsharpSocialNetworkManager\\CsharpSocialNetworkManager.csproj|solutionrelative:csharpsocialnetworkmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "cursoCsharp",
+              "DocumentIndex": 0,
+              "Title": "LogText.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Utilities\\log\\LogText.cs",
+              "RelativeDocumentMoniker": "CsharpSocialNetworkManager\\Utilities\\log\\LogText.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Utilities\\log\\LogText.cs",
+              "RelativeToolTip": "CsharpSocialNetworkManager\\Utilities\\log\\LogText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:19:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Utilities\\log\\ILog.cs",
+              "RelativeDocumentMoniker": "CsharpSocialNetworkManager\\Utilities\\log\\ILog.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Utilities\\log\\ILog.cs",
+              "RelativeToolTip": "CsharpSocialNetworkManager\\Utilities\\log\\ILog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:57:25.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cursoCsharp.csproj",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\cursoCsharp\\cursoCsharp.csproj",
               "RelativeDocumentMoniker": "cursoCsharp\\cursoCsharp.csproj",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\cursoCsharp\\cursoCsharp.csproj",
               "RelativeToolTip": "cursoCsharp\\cursoCsharp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T03:42:58.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T03:42:58.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\cursoCsharp\\Program.cs",
               "RelativeDocumentMoniker": "cursoCsharp\\Program.cs",
@@ -60,20 +93,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Models\\User.cs",
               "RelativeDocumentMoniker": "CsharpSocialNetworkManager\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Models\\User.cs",
               "RelativeToolTip": "CsharpSocialNetworkManager\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T07:25:31.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AppManager.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Models\\AppManager.cs",
               "RelativeDocumentMoniker": "CsharpSocialNetworkManager\\Models\\AppManager.cs",
@@ -81,20 +114,20 @@
               "RelativeToolTip": "CsharpSocialNetworkManager\\Models\\AppManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:25:13.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T07:25:13.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Program.cs",
               "RelativeDocumentMoniker": "CsharpSocialNetworkManager\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\cursoCsharp\\CsharpSocialNetworkManager\\Program.cs",
               "RelativeToolTip": "CsharpSocialNetworkManager\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwDEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:22:59Z"
+              "WhenOpened": "2025-01-11T07:22:59Z",
+              "EditorCaption": ""
             }
           ]
         }
