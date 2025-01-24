@@ -10,6 +10,7 @@ namespace CsharpSocialNetworkManager.Utilities.log
     { 
         public void SaveLog(string action)
         {
+            //print cambios
             //Directorio donde se esta ejecutando la aplicacion actualmente
             string logPath = Directory.GetCurrentDirectory()+@"\Log.txt";
 
